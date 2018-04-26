@@ -1,4 +1,11 @@
 这是用来放置PID电路转接板的文件夹
 
-
 desginer：qiuxinzhang，siangzhang
+
+1234-holes
+代表有4个转接的SMA和一个镂空的长方形洞口。
+使用的eagle版本是：EAGLE 8.3.0
+
+<div align="center">
+<img src="http://www.iontrap.net/-/img/PID面板.png"  height="240" width="540">
+ </div>
