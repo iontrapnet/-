@@ -1,0 +1,8 @@
+Partlist exported from /Users/zhangqiuxin/Desktop/eagle/3filter.sch at 2018/12/13 下午6:36
+
+Qty Value   Device  Package Parts                                      Description                
+4   0.15mH  L       L1812   L1, L2, L3, L4                             INDUCTOR, European symbol  
+4   100nF   CC1210  C1210   C1, C4, C7, C10                            CAPACITOR, European symbol 
+8   33nF    CC1210  C1210   C2, C3, C5, C6, C8, C9, C11, C12           CAPACITOR, European symbol 
+4   63ohm   R       R0805   R1, R2, R3, R4                             RESISTOR, European symbol  
+8   BN35N61 BN35N61 B35N61  IN1, IN2, IN3, IN4, OUT1, OUT2, OUT3, OUT4 BNC CONNECTOR              
